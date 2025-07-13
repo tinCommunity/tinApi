@@ -1,5 +1,3 @@
-import type { Serve } from "bun";
-
 interface RequestBody {
   [key: string]: any;
 }
@@ -9,7 +7,7 @@ interface ResponseData {
   data?: any;
 }
 
-const server = Bun.serve<Serve>({
+const server = Bun.serve({
   port: 3000,
   async fetch(req: Request): Promise<Response> {
     const url: URL = new URL(req.url);
