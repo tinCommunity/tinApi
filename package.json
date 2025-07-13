@@ -1,14 +1,14 @@
 {
-  "name": "tinapi",
+  "name": "tinserver",
   "version": "1.0.0",
-  "description": "tinApi is a Server application",
-  "homepage": "https://github.com/tinCommunity/tinApi#readme",
+  "description": "tinServer is a Server application",
+  "homepage": "https://github.com/tinCommunity/tinServer#readme",
   "bugs": {
-    "url": "https://github.com/tinCommunity/tinApi/issues"
+    "url": "https://github.com/tinCommunity/tinServer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinCommunity/tinApi.git"
+    "url": "git+https://github.com/tinCommunity/tinServer.git"
   },
   "license": "ISC",
   "author": "",
