@@ -6,6 +6,7 @@ interface ResponseData {
   message: string;
   data?: any;
 }
+
 const server = Bun.serve({
   port: 3000,
   async fetch(req: Request): Promise<Response> {
