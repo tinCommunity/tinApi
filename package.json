@@ -1,0 +1,23 @@
+{
+  "name": "tinapi",
+  "version": "1.0.0",
+  "description": "tinApi is a Server application",
+  "homepage": "https://github.com/tinCommunity/tinApi#readme",
+  "bugs": {
+    "url": "https://github.com/tinCommunity/tinApi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinCommunity/tinApi.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/bun": "^1.2.18"
+  }
+}
