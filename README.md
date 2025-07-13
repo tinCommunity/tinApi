@@ -1,3 +1,3 @@
 ## bun.js
 
-tinApi is a Server application
+tinApi is a server application
